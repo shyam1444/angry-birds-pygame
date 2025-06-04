@@ -52,10 +52,6 @@ Here are some ideas to further enhance the game's visual and interactive experie
 -   **Improved UI/HUD**: Enhance the graphical elements of the score display, bird/pig counters, and other UI components with custom frames, icons, or animated elements.
 -   **Sound Effects and Music**: Integrate background music and specific sound effects for various in-game actions (bird launch, pig destruction, block breaking, level cleared/failed) to boost immersion.
 
-## Credits
-
-Developed by [Your Name/Shyam1444]
-
 **Special Thanks for Assets:**
 -   Background Image: [Cozy Endless Game Background](https://opengameart.org/content/cozy-endless-game-background)
 -   Ground Texture: [Seamless ground texture by hhh316](https://www.deviantart.com/hhh316/art/Seamless-ground-texture-183190001)
