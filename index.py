@@ -8,7 +8,7 @@ import maps
 import interface
 
 pygame.init()
-pygame.display.set_caption('Angry Bird')
+pygame.display.set_caption('Angry Birds')
 width = 1500
 height = 700
 display = pygame.display.set_mode((width, height))
@@ -35,7 +35,7 @@ def GAME():
     map = maps.Maps()
 
     welcome = interface.Label(700, 100, 400, 200, None, background)
-    welcome.add_text("ANGRY BIRD GAME", 80, "Fonts/arfmoochikncheez.ttf", (0, 0, 0))
+    welcome.add_text("ANGRY BIRDS GAME", 80, "Fonts/arfmoochikncheez.ttf", (0, 0, 0))
 
     start = interface.Button(500, 400, 300, 100, start_game, (244, 208, 63), (247, 220, 111))
     start.add_text("START GAME", 60, "Fonts/arfmoochikncheez.ttf", (0, 0, 0))
